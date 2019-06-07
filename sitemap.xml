@@ -60,6 +60,11 @@
   </url>
   
   <url>
+    <loc>/resources/my-awesome-project/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/resources/job-resources/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
@@ -75,7 +80,7 @@
   </url>
   
   <url>
-    <loc>/resources/my-awesome-project/</loc>
+    <loc>/resources/local-meetings/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
@@ -83,6 +88,11 @@
     <loc>/resources/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/resources/social-media/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
   <url>

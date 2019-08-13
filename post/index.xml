@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Utah Data Scientist</copyright>
-    <lastBuildDate>Tue, 16 Jul 2019 22:21:42 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 22:21:42 +0100</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data science at Front Analytics</title>
+      <link>/2019/08/12/frontanalytics/</link>
+      <pubDate>Mon, 12 Aug 2019 22:21:42 +0100</pubDate>
+      
+      <guid>/2019/08/12/frontanalytics/</guid>
+      <description>&amp;rdquo;&amp;hellip;Don’t worry so much about staying up on the absolute latest technology, just worry about delivering an overwhelming amount of value on the tasks you’re working on.&amp;rdquo;
+ After deciding a PhD wasn&amp;rsquo;t right for him, and after working years in the marketing industry, Alton Alexander decided to set off and start his own analytics consulting firm &amp;ndash; Front Analytics.
+I was lucky to be brought on during the early days of Front Analytics and see the changes and growth of the company.</description>
+    </item>
     
     <item>
       <title>Data science at Branded Entertainment Network</title>
